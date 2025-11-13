@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace = "com.example.projecthq"
+    namespace = "com.example.projecthydrobase"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "com.example.projecthq"
+        applicationId = "com.example.projecthydrobase"
         minSdk = 21
         targetSdk = 34
         versionCode = 1
