@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/nav_biodata" android:title="Biodata" android:icon="@drawable/ic_menu_account"/>
+    <item android:id="@+id/nav_kontak" android:title="Kontak" android:icon="@drawable/ic_menu_contacts"/>
+    <item android:id="@+id/nav_kalkulator" android:title="Kalkulator" android:icon="@drawable/ic_menu_calc"/>
+    <item android:id="@+id/nav_cuaca" android:title="Cuaca" android:icon="@drawable/ic_menu_weather"/>
+    <item android:id="@+id/nav_berita" android:title="Berita" android:icon="@drawable/ic_menu_news"/>
+</menu>
